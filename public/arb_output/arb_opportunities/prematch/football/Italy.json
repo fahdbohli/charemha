@@ -1,0 +1,285 @@
+[
+  {
+    "group_id": "653243251-11280133-13810690-27906362",
+    "home_team": "AS Roma (Wom)",
+    "away_team": "Sassuolo Calcio (Women)",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "Italy",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.75_odd": {
+            "value": 2.4,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_0.75_odd": {
+            "value": 1.742,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9907,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27906362-11280133",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Italy",
+        "tournament_Asbet": "Coppa Italia Serie A - Women",
+        "Asbet_match_id": 27906362,
+        "Asbet_tournament_id": 18293932,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Italy/18293932/coppa-italia-serie-a---women/27906362/as-roma-wom-sassuolo-wom",
+        "Tounesbet_country_name": "Italy",
+        "tournament_Tounesbet": "Serie A Women's Cup",
+        "Tounesbet_match_id": 11280133,
+        "Tounesbet_tournament_id": 257550,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653243251-11280133-13810690-27906362",
+        "home_team": "AS Roma (Wom)",
+        "away_team": "Sassuolo Calcio (Women)",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "2578437019160154117-653127530-11276908-13886721-27938214",
+    "home_team": "Camaiore Calcio",
+    "away_team": "AC Prato",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "Italy",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 7.55,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.16,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9945,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653127530-27938214",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "Italy",
+        "tournament_1xbet": "Serie D",
+        "1xbet_match_id": 653127530,
+        "1xbet_tournament_id": 33957,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/33957/653127530",
+        "Asbet_country_name": "Italy",
+        "tournament_Asbet": "Serie D",
+        "Asbet_match_id": 27938214,
+        "Asbet_tournament_id": 9244,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Italy/9244/serie-d/27938214/camaiore-calcio-ac-prato",
+        "group_id": "2578437019160154117-653127530-11276908-13886721-27938214",
+        "home_team": "Camaiore Calcio",
+        "away_team": "AC Prato",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "2578438566069805056-653124904-11276979-13886460-27938155",
+    "home_team": "ASD Sambiase 2023",
+    "away_team": "ASD Castrum Favara",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "Italy",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.37,
+            "source": "Asbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.865,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9581,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27938155-11276979",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Italy",
+        "tournament_Asbet": "Serie D",
+        "Asbet_match_id": 27938155,
+        "Asbet_tournament_id": 9244,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Italy/9244/serie-d/27938155/asd-sambiase-asd-castrum-favara",
+        "Tounesbet_country_name": "Italy",
+        "tournament_Tounesbet": "Serie D",
+        "Tounesbet_match_id": 11276979,
+        "Tounesbet_tournament_id": 23401,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578438566069805056-653124904-11276979-13886460-27938155",
+        "home_team": "ASD Sambiase 2023",
+        "away_team": "ASD Castrum Favara",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.3637,
+            "source": "Clubx2"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.865,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9593,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13886460-11276979",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Italy",
+        "tournament_Clubx2": "9544",
+        "Clubx2_match_id": 13886460,
+        "Clubx2_tournament_id": 9544,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13886460#/overview",
+        "Tounesbet_country_name": "Italy",
+        "tournament_Tounesbet": "Serie D",
+        "Tounesbet_match_id": 11276979,
+        "Tounesbet_tournament_id": 23401,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578438566069805056-653124904-11276979-13886460-27938155",
+        "home_team": "ASD Sambiase 2023",
+        "away_team": "ASD Castrum Favara",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.26,
+            "source": "Jibibet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.865,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9787,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578438566069805056-11276979",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Italy",
+        "tournament_Jibibet": "Serie D",
+        "Jibibet_match_id": 2578438566069805056,
+        "Jibibet_tournament_id": 2474535590478098472,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Italy",
+        "tournament_Tounesbet": "Serie D",
+        "Tounesbet_match_id": 11276979,
+        "Tounesbet_tournament_id": 23401,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578438566069805056-653124904-11276979-13886460-27938155",
+        "home_team": "ASD Sambiase 2023",
+        "away_team": "ASD Castrum Favara",
+        "activity_duration": "26 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578422852055339021-653124441-11276636-13886403",
+    "home_team": "Usd Castellanzese 1921",
+    "away_team": "ASD Caldiero Terme",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "Italy",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 1.968,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 2.2,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9627,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13886403-11276636",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "Italy",
+        "tournament_Tounesbet": "Serie D",
+        "Tounesbet_match_id": 11276636,
+        "Tounesbet_tournament_id": 23401,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Italy",
+        "tournament_Clubx2": "9544",
+        "Clubx2_match_id": 13886403,
+        "Clubx2_tournament_id": 9544,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13886403#/overview",
+        "group_id": "2578422852055339021-653124441-11276636-13886403",
+        "home_team": "Usd Castellanzese 1921",
+        "away_team": "ASD Caldiero Terme",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.06,
+            "source": "Jibibet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.968,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9936,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578422852055339021-11276636",
+        "misvalue_source": "Tounesbet",
+        "Jibibet_country_name": "Italy",
+        "tournament_Jibibet": "Serie D",
+        "Jibibet_match_id": 2578422852055339021,
+        "Jibibet_tournament_id": 2474535590478098472,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "Tounesbet_country_name": "Italy",
+        "tournament_Tounesbet": "Serie D",
+        "Tounesbet_match_id": 11276636,
+        "Tounesbet_tournament_id": 23401,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578422852055339021-653124441-11276636-13886403",
+        "home_team": "Usd Castellanzese 1921",
+        "away_team": "ASD Caldiero Terme",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

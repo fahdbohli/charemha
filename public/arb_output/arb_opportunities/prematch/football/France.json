@@ -1,0 +1,96 @@
+[
+  {
+    "group_id": "2573860594197344293-649722553-11189110-27906288",
+    "home_team": "Stade Rennais",
+    "away_team": "Olympique Lyonnais",
+    "date": "14/09/2025",
+    "time": "19:45",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 1.814,
+            "source": "1xbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 2.255,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9947,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "649722553-11189110",
+        "misvalue_source": "Tounesbet",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 649722553,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/649722553",
+        "Tounesbet_country_name": "France",
+        "tournament_Tounesbet": "Ligue 1",
+        "Tounesbet_match_id": 11189110,
+        "Tounesbet_tournament_id": 22359,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573860594197344293-649722553-11189110-27906288",
+        "home_team": "Stade Rennais",
+        "away_team": "Olympique Lyonnais",
+        "activity_duration": "142 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2573866106481676303-651926661-13735512-27942320",
+    "home_team": "Olympique Lyonnais",
+    "away_team": "Angers SCO",
+    "date": "19/09/2025",
+    "time": "19:45",
+    "country": "France",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 1.425,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 3.5,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.9875,
+        "arbitrage_sources": "1xbet, Jibibet",
+        "unique_id": "2573866106481676303-651926661",
+        "misvalue_source": "Clubx2",
+        "1xbet_country_name": "France",
+        "tournament_1xbet": "Ligue 1",
+        "1xbet_match_id": 651926661,
+        "1xbet_tournament_id": 12821,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/12821/651926661",
+        "Jibibet_country_name": "France",
+        "tournament_Jibibet": "Ligue 1",
+        "Jibibet_match_id": 2573866106481676303,
+        "Jibibet_tournament_id": 1669818844560101376,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2573866106481676303-651926661-13735512-27942320",
+        "home_team": "Olympique Lyonnais",
+        "away_team": "Angers SCO",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

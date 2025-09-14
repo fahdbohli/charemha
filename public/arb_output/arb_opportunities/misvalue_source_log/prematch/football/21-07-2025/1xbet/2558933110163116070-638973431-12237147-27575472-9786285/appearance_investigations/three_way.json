@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "1xbet",
+    "group_id": "2558933110163116070-638973431-12237147-27575472-9786285",
+    "market_name": "three_way",
+    "arbitrage_percentage": 0.9752,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": 4.45,
+        "1xbet": 3.39
+      },
+      "new_odds": {
+        "Tounesbet": 4.895,
+        "1xbet": 3.39
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-21T21:42:03.858543"
+  }
+]

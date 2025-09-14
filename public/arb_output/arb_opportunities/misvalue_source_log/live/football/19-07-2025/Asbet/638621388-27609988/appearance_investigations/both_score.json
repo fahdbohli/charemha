@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Asbet",
+    "group_id": "638621388-27609988",
+    "market_name": "both_score",
+    "arbitrage_percentage": 0.9909,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": 1.904,
+        "Asbet": 1.83
+      },
+      "new_odds": {
+        "1xbet": 2.25,
+        "Asbet": 1.83
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "appeared_at": "2025-07-19T19:07:48.325544"
+  }
+]

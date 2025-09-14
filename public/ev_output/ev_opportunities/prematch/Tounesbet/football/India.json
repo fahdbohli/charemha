@@ -1,0 +1,38 @@
+[
+  {
+    "group_id": "646315064-11102153-27820978",
+    "home_team": "Maatru Pratishtana W",
+    "away_team": "Kickstart Karnataka W",
+    "date": "19/08/2025",
+    "time": "11:30",
+    "country": "India",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "source": "Tounesbet",
+        "odd_name": "away_handicap_-3.5_odd",
+        "overpriced_odd_value": 2.3,
+        "fair_odd_value": 2.0,
+        "overprice": 0.15,
+        "unique_id": "11102153-away_handicap_-3.5_odd",
+        "Tounesbet_country_name": "India",
+        "tournament_Tounesbet": "Karnataka W",
+        "Tounesbet_match_id": 11102153,
+        "Tounesbet_tournament_id": 123590,
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "ev_sources": [
+          "Tounesbet",
+          "Asbet"
+        ],
+        "group_id": "646315064-11102153-27820978",
+        "home_team": "Maatru Pratishtana W",
+        "away_team": "Kickstart Karnataka W",
+        "activity_duration": "13 minutes"
+      }
+    ]
+  }
+]

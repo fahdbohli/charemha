@@ -1,0 +1,44 @@
+[
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "638633856-16228242",
+    "market_name": "three_way",
+    "arbitrage_percentage": 0.7893,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": 1.91,
+        "1xbet": 3.8
+      },
+      "new_odds": {
+        "Tounesbet": 1.91,
+        "1xbet": 9.72
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-19T19:35:41.831289"
+  },
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "638633856-16228242",
+    "market_name": "three_way",
+    "arbitrage_percentage": 0.7885,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": null,
+        "Tounesbet": 9.5
+      },
+      "new_odds": {
+        "1xbet": 1.936,
+        "Tounesbet": 9.5
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-19T19:36:06.620826"
+  }
+]

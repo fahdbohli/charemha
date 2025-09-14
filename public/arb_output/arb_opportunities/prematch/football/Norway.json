@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "2578970141295521827-653352120-27980580-9563775",
+    "home_team": "Molde FK 2",
+    "away_team": "Tiller IL",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-1.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-1.75_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_first_half_handicap_1.75_odd": {
+            "value": 1.845,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9945,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980580-9563775",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Norway",
+        "tournament_Asbet": "3rd Division",
+        "Asbet_match_id": 27980580,
+        "Asbet_tournament_id": 10926,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Norway/10926/rd-division/27980580/molde-fk--tiller-il",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "3. Division - 1",
+        "Tounesbet_match_id": 9563775,
+        "Tounesbet_tournament_id": 25173,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578970141295521827-653352120-27980580-9563775",
+        "home_team": "Molde FK 2",
+        "away_team": "Tiller IL",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

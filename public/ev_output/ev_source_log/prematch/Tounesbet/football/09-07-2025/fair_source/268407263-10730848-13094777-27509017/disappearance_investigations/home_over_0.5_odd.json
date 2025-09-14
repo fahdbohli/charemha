@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1008,
+    "overprice_source": "fair_source",
+    "odd_name": "home_over_0.5_odd",
+    "old_fair_odd": 1.7188,
+    "old_Tounesbet_odd": 1.892,
+    "new_fair_odd": 1.7188,
+    "new_Tounesbet_odd": 1.892,
+    "opportunity_duration": "0 seconds",
+    "group_id": "268407263-10730848-13094777-27509017",
+    "home_team": "CS Metaloglobus",
+    "away_team": "Universitatea Cluj",
+    "disappeared_at": "2025-07-09T05:05:05.631399"
+  }
+]

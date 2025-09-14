@@ -1,0 +1,35 @@
+[
+  {
+    "group_id": "268694653-10574713-13077082-27507415",
+    "home_team": "Jorge Wilstermann",
+    "away_team": "Guabirá",
+    "date": "08/07/2025",
+    "time": "01:00",
+    "country": "Bolivia Championship",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "source": "Tounesbet",
+        "odd_name": "X2_odd",
+        "overpriced_odd_value": 2.09,
+        "fair_odd_value": 1.8643,
+        "overprice": 0.1211,
+        "unique_id": "10574713-X2_odd",
+        "Tounesbet_country_name": "Bolivia",
+        "tournament_Tounesbet": "Primera Division",
+        "Tounesbet_match_id": "10574713",
+        "Tounesbet_tournament_id": "21496",
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "group_id": "268694653-10574713-13077082-27507415",
+        "home_team": "Jorge Wilstermann",
+        "away_team": "Guabirá",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

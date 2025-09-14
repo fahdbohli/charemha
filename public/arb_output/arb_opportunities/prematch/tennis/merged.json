@@ -1,0 +1,46 @@
+[
+  {
+    "group_id": "11281226-13948644",
+    "home_team": "Karan Raghavendra",
+    "away_team": "Milica Stosovic",
+    "date": "14/09/2025",
+    "time": "14:40",
+    "country": "merged",
+    "all_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "winner",
+        "best_odds": {
+          "player1_odd": {
+            "value": 2.767,
+            "source": "Tounesbet"
+          },
+          "player2_odd": {
+            "value": 10.0,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.4614,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13948644-11281226",
+        "Tounesbet_country_name": "merged",
+        "tournament_Tounesbet": "UTR Pro Series USA",
+        "Tounesbet_match_id": 11281226,
+        "Tounesbet_tournament_id": 70541,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "merged",
+        "tournament_Clubx2": "ITF W75 Kursumlijska Banja Qualification",
+        "Clubx2_match_id": 13948644,
+        "Clubx2_tournament_id": 53883,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13948644#/overview",
+        "group_id": "11281226-13948644",
+        "home_team": "Karan Raghavendra",
+        "away_team": "Milica Stosovic",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1039,
+    "overprice_source": "fair_source",
+    "odd_name": "away_handicap_1.25_odd",
+    "old_fair_odd": 2.2919,
+    "old_Tounesbet_odd": 2.53,
+    "new_fair_odd": 2.2919,
+    "new_Tounesbet_odd": 2.53,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269411642-10587162-12880779-27535384",
+    "home_team": "Dundee FC",
+    "away_team": "Airdrieonians",
+    "disappeared_at": "2025-07-09T05:05:05.685543"
+  }
+]

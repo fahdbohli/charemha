@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1062,
+    "overprice_source": "fair_source",
+    "odd_name": "home_over_1.5_odd",
+    "old_fair_odd": 2.7347,
+    "old_Tounesbet_odd": 3.025,
+    "new_fair_odd": 2.7347,
+    "new_Tounesbet_odd": 3.025,
+    "opportunity_duration": "0 seconds",
+    "group_id": "267730251-12100582-27501578-9786252",
+    "home_team": "Juventude",
+    "away_team": "Sport Recife",
+    "disappeared_at": "2025-07-09T05:05:05.637889"
+  }
+]

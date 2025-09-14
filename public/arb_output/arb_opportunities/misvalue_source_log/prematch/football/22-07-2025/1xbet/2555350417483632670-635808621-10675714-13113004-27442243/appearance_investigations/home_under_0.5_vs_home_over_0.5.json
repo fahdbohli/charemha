@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "1xbet",
+    "group_id": "2555350417483632670-635808621-10675714-13113004-27442243",
+    "market_name": "home_under_0.5_vs_home_over_0.5",
+    "arbitrage_percentage": 0.9931,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": null,
+        "1xbet": 1.46
+      },
+      "new_odds": {
+        "Tounesbet": 3.245,
+        "1xbet": 1.46
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-22T00:40:57.998025"
+  }
+]

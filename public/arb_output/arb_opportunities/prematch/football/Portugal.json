@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "653196340-11234511-13874838-27976545",
+    "home_team": "FC Oliveira do Hospital",
+    "away_team": "C.D. Fátima",
+    "date": "14/09/2025",
+    "time": "15:00",
+    "country": "Portugal",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 3.47,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.42,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9924,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27976545-11234511",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Portugal",
+        "tournament_Asbet": "Campeonato de Portugal",
+        "Asbet_match_id": 27976545,
+        "Asbet_tournament_id": 11577,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Portugal/11577/campeonato-de-portugal/27976545/fc-oliveira-hospital-cd-fatima",
+        "Tounesbet_country_name": "Portugal",
+        "tournament_Tounesbet": "Campeonato de Portugal",
+        "Tounesbet_match_id": 11234511,
+        "Tounesbet_tournament_id": 140405,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653196340-11234511-13874838-27976545",
+        "home_team": "FC Oliveira do Hospital",
+        "away_team": "C.D. Fátima",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

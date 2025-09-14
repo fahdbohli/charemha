@@ -1,0 +1,81 @@
+[
+  {
+    "group_id": "2578753290321932318-653179379-10744681-13112273-27942333",
+    "home_team": "DSC Arminia Bielefeld",
+    "away_team": "SpVgg Greuther Fürth",
+    "date": "19/09/2025",
+    "time": "17:30",
+    "country": "Germany",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 3.1,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.5264,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9777,
+        "arbitrage_sources": "Asbet, Clubx2",
+        "unique_id": "27942333-13112273",
+        "misvalue_source": "Clubx2",
+        "Asbet_country_name": "Germany",
+        "tournament_Asbet": "2. Bundesliga",
+        "Asbet_match_id": 27942333,
+        "Asbet_tournament_id": 542,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Germany/542/bundesliga/27942333/arminia-bielefeld-greuther-furth",
+        "Clubx2_country_name": "Germany",
+        "tournament_Clubx2": "2nd Bundesliga",
+        "Clubx2_match_id": 13112273,
+        "Clubx2_tournament_id": 2954,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13112273#/overview",
+        "group_id": "2578753290321932318-653179379-10744681-13112273-27942333",
+        "home_team": "DSC Arminia Bielefeld",
+        "away_team": "SpVgg Greuther Fürth",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 3.1,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.51,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9848,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653179379-27942333",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Germany",
+        "tournament_Asbet": "2. Bundesliga",
+        "Asbet_match_id": 27942333,
+        "Asbet_tournament_id": 542,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Germany/542/bundesliga/27942333/arminia-bielefeld-greuther-furth",
+        "1xbet_country_name": "Germany",
+        "tournament_1xbet": "2. Bundesliga",
+        "1xbet_match_id": 653179379,
+        "1xbet_tournament_id": 109313,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/109313/653179379",
+        "group_id": "2578753290321932318-653179379-10744681-13112273-27942333",
+        "home_team": "DSC Arminia Bielefeld",
+        "away_team": "SpVgg Greuther Fürth",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

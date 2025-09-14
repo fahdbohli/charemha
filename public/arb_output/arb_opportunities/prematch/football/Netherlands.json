@@ -1,0 +1,81 @@
+[
+  {
+    "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+    "home_team": "Sparta Rotterdam",
+    "away_team": "FC Twente Enschede",
+    "date": "19/09/2025",
+    "time": "19:00",
+    "country": "Netherlands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.21,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.865,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9887,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27908322-10671113",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Netherlands",
+        "tournament_Asbet": "Eredivisie",
+        "Asbet_match_id": 27908322,
+        "Asbet_tournament_id": 1957,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Netherlands/1957/eredivisie/27908322/sparta-rotterdam-twente",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671113,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+        "home_team": "Sparta Rotterdam",
+        "away_team": "FC Twente Enschede",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.613,
+            "source": "Tounesbet"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.6364,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9938,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13024736-10671113",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Netherlands",
+        "tournament_Tounesbet": "Ellis Park",
+        "Tounesbet_match_id": 10671113,
+        "Tounesbet_tournament_id": 21941,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "Netherlands",
+        "tournament_Clubx2": "Eredivisie",
+        "Clubx2_match_id": 13024736,
+        "Clubx2_tournament_id": 3065,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13024736#/overview",
+        "group_id": "2573866106485870603-649714242-10671113-13024736-27908322",
+        "home_team": "Sparta Rotterdam",
+        "away_team": "FC Twente Enschede",
+        "activity_duration": "38 hours"
+      }
+    ]
+  }
+]

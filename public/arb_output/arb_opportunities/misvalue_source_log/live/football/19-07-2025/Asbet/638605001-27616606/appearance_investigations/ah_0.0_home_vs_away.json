@@ -1,0 +1,44 @@
+[
+  {
+    "misvalue_source": "Asbet",
+    "group_id": "638605001-27616606",
+    "market_name": "ah_0.0_home_vs_away",
+    "arbitrage_percentage": 0.9166,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": 1.285,
+        "Asbet": 4.15
+      },
+      "new_odds": {
+        "1xbet": 1.48,
+        "Asbet": 4.15
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "appeared_at": "2025-07-19T18:47:23.205131"
+  },
+  {
+    "misvalue_source": "Asbet",
+    "group_id": "638605001-27616606",
+    "market_name": "ah_0.0_home_vs_away",
+    "arbitrage_percentage": 0.9985,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": 1.3,
+        "Asbet": 4.15
+      },
+      "new_odds": {
+        "1xbet": 1.32,
+        "Asbet": 4.15
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "appeared_at": "2025-07-19T18:48:22.135701"
+  }
+]

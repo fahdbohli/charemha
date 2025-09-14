@@ -1,0 +1,48 @@
+[
+  {
+    "group_id": "653189430-13682485-27997817",
+    "home_team": "Deportivo Miranda",
+    "away_team": "Angostura FC",
+    "date": "14/09/2025",
+    "time": "20:30",
+    "country": "Venezuela",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 12.3,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.09,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9987,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653189430-27997817",
+        "misvalue_source": "1xbet",
+        "1xbet_country_name": "Venezuela",
+        "tournament_1xbet": "Segunda Division",
+        "1xbet_match_id": 653189430,
+        "1xbet_tournament_id": 939273,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/939273/653189430",
+        "Asbet_country_name": "Venezuela",
+        "tournament_Asbet": "Segunda Division",
+        "Asbet_match_id": 27997817,
+        "Asbet_tournament_id": 11110,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Venezuela/11110/segunda-division/27997817/deportivo-miranda-angostura-fc",
+        "group_id": "653189430-13682485-27997817",
+        "home_team": "Deportivo Miranda",
+        "away_team": "Angostura FC",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

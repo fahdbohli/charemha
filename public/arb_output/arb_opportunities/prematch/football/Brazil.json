@@ -1,0 +1,127 @@
+[
+  {
+    "group_id": "653392782-11283239-13725569-27997568",
+    "home_team": "America Minas Gerais U20",
+    "away_team": "Athletic Club MG U20",
+    "date": "14/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.05,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.09,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9663,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653392782-11283239",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Mineiro U20",
+        "Tounesbet_match_id": 11283239,
+        "Tounesbet_tournament_id": 23019,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Brazil",
+        "tournament_1xbet": "Campeonato Mineiro U20",
+        "1xbet_match_id": 653392782,
+        "1xbet_tournament_id": 1758196,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1758196/653392782",
+        "group_id": "653392782-11283239-13725569-27997568",
+        "home_team": "America Minas Gerais U20",
+        "away_team": "Athletic Club MG U20",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "ah_-0.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-0.75_odd": {
+            "value": 2.05,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.75_odd": {
+            "value": 2.05,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9756,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997568-11283239",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Mineiro U20",
+        "Tounesbet_match_id": 11283239,
+        "Tounesbet_tournament_id": 23019,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "U20 Campeonato Mineiro",
+        "Asbet_match_id": 27997568,
+        "Asbet_tournament_id": 18276313,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/18276313/u-campeonato-mineiro/27997568/america-mg-u-athletic-club-mg-u",
+        "group_id": "653392782-11283239-13725569-27997568",
+        "home_team": "America Minas Gerais U20",
+        "away_team": "Athletic Club MG U20",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "2578869525311266821-653392785-11283137-28006542",
+    "home_team": "Criciuma EC SC",
+    "away_team": "Camboriu FC SC",
+    "date": "14/09/2025",
+    "time": "19:00",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 2.152,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.87,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9994,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28006542-11283137",
+        "misvalue_source": "Jibibet",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Copa Santa Catarina",
+        "Tounesbet_match_id": 11283137,
+        "Tounesbet_tournament_id": 23048,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Brazil",
+        "tournament_Asbet": "Copa Santa Catarina",
+        "Asbet_match_id": 28006542,
+        "Asbet_tournament_id": 35363,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/35363/copa-santa-catarina/28006542/criciuma-ec-camboriu-fc",
+        "group_id": "2578869525311266821-653392785-11283137-28006542",
+        "home_team": "Criciuma EC SC",
+        "away_team": "Camboriu FC SC",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

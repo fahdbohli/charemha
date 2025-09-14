@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "2558804072266342405-638187054-12199632-27612346-9986718",
+    "market_name": "first_half_under_1.5_vs_first_half_over_1.5",
+    "arbitrage_percentage": 0.9615,
+    "investigation_details": {
+      "old_odds": {
+        "Asbet": 2.07,
+        "Tounesbet": 2.167
+      },
+      "new_odds": {
+        "Asbet": 2.0,
+        "Tounesbet": 2.167
+      }
+    },
+    "involved_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-22T00:17:32.590075"
+  }
+]

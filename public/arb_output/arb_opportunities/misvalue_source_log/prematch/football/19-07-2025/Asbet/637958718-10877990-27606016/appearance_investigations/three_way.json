@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Asbet",
+    "group_id": "637958718-10877990-27606016",
+    "market_name": "three_way",
+    "arbitrage_percentage": 0.9952,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": 4.95,
+        "Asbet": 4.6
+      },
+      "new_odds": {
+        "Tounesbet": 5.445,
+        "Asbet": 4.6
+      }
+    },
+    "involved_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-19T18:13:43.254070"
+  }
+]

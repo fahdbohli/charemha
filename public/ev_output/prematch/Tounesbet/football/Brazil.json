@@ -1,0 +1,35 @@
+[
+  {
+    "group_id": "268623062-12032819-27511584-9919120",
+    "home_team": "Anapolis FC",
+    "away_team": "Itabaiana",
+    "date": "06/07/2025",
+    "time": "20:30",
+    "country": "Brazil",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "source": "Tounesbet",
+        "odd_name": "both_score_odd",
+        "overpriced_odd_value": 2.42,
+        "fair_odd_value": 2.1724,
+        "overprice": 0.114,
+        "unique_id": "9919120-both_score_odd",
+        "Tounesbet_country_name": "Brazil",
+        "tournament_Tounesbet": "Série C",
+        "Tounesbet_match_id": "9919120",
+        "Tounesbet_tournament_id": "23046",
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "group_id": "268623062-12032819-27511584-9919120",
+        "home_team": "Anapolis FC",
+        "away_team": "Itabaiana",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

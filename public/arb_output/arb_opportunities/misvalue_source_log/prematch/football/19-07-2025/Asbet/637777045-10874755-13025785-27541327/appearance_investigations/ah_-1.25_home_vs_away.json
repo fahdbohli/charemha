@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Asbet",
+    "group_id": "637777045-10874755-13025785-27541327",
+    "market_name": "ah_-1.25_home_vs_away",
+    "arbitrage_percentage": 0.9968,
+    "investigation_details": {
+      "old_odds": {
+        "Asbet": 2.52,
+        "Clubx2": null
+      },
+      "new_odds": {
+        "Asbet": 2.52,
+        "Clubx2": 1.6667
+      }
+    },
+    "involved_sources": [
+      "Asbet",
+      "Clubx2"
+    ],
+    "appeared_at": "2025-07-19T17:37:58.943037"
+  }
+]

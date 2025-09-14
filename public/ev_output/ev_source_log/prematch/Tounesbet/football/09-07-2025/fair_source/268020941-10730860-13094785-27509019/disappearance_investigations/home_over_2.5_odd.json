@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1407,
+    "overprice_source": "fair_source",
+    "odd_name": "home_over_2.5_odd",
+    "old_fair_odd": 2.7,
+    "old_Tounesbet_odd": 3.08,
+    "new_fair_odd": 2.7,
+    "new_Tounesbet_odd": 3.08,
+    "opportunity_duration": "0 seconds",
+    "group_id": "268020941-10730860-13094785-27509019",
+    "home_team": "CFR Cluj",
+    "away_team": "Unirea Slobozia",
+    "disappeared_at": "2025-07-09T05:05:05.655394"
+  }
+]

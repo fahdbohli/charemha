@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "653207669-10726272-13799787-27959844",
+    "home_team": "Heart of Midlothian FC (Wom)",
+    "away_team": "Motherwell LFC (Wom)",
+    "date": "14/09/2025",
+    "time": "16:00",
+    "country": "Scotland",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-2.75_home_vs_away",
+        "best_odds": {
+          "home_handicap_-2.75_odd": {
+            "value": 1.896,
+            "source": "Tounesbet"
+          },
+          "away_handicap_2.75_odd": {
+            "value": 2.13,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9969,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27959844-10726272",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Scotland",
+        "tournament_Tounesbet": "SWFL 1 Women",
+        "Tounesbet_match_id": 10726272,
+        "Tounesbet_tournament_id": 23710,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Scotland",
+        "tournament_Asbet": "SWPL 1 - Women",
+        "Asbet_match_id": 27959844,
+        "Asbet_tournament_id": 11653,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Scotland/11653/swpl---women/27959844/heart-of-midlothian-fc-wom-motherwell-lfc-wom",
+        "group_id": "653207669-10726272-13799787-27959844",
+        "home_team": "Heart of Midlothian FC (Wom)",
+        "away_team": "Motherwell LFC (Wom)",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

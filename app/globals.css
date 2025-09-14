@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222.2 84% 4.9%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96%;
+    --accent-foreground: 222.2 84% 4.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 224 71% 4%;
+    --foreground: 213 31% 91%;
+    --card: 224 71% 4%;
+    --card-foreground: 213 31% 91%;
+    --popover: 224 71% 4%;
+    --popover-foreground: 213 31% 91%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 84% 4.9%;
+    --secondary: 215 27.9% 16.9%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 215 27.9% 16.9%;
+    --muted-foreground: 217.9 10.6% 64.9%;
+    --accent: 215 27.9% 16.9%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 215 27.9% 16.9%;
+    --input: 215 27.9% 16.9%;
+    --ring: 216 34% 17%;
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* Enhanced dark theme styles */
+.dark {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+}
+
+.dark .card-gradient {
+  background: linear-gradient(145deg, #1e293b 0%, #334155 100%);
+  border: 1px solid #475569;
+}
+
+.dark .odds-button {
+  background: linear-gradient(145deg, #334155 0%, #475569 100%);
+  border: 1px solid #64748b;
+}
+
+.dark .odds-button:hover {
+  background: linear-gradient(145deg, #475569 0%, #64748b 100%);
+  border: 1px solid #94a3b8;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.dark .profit-badge {
+  background: linear-gradient(145deg, #065f46 0%, #047857 100%);
+  color: #d1fae5;
+  border: 1px solid #10b981;
+}
+
+.dark .control-card {
+  background: linear-gradient(145deg, #1e293b 0%, #334155 100%);
+  border: 1px solid #475569;
+  backdrop-filter: blur(10px);
+}
+
+/* Fix for scrolling background issues */
+* {
+  /* Prevent background attachment issues during scroll */
+  background-attachment: scroll !important;
+}
+
+/* Ensure proper rendering during scroll */
+.arbitrage-card,
+[data-radix-scroll-area-viewport] > div,
+.grid > * {
+  /* Force GPU acceleration for smooth scrolling */
+  transform: translateZ(0);
+  /* Prevent background flickering */
+  backface-visibility: hidden;
+  /* Optimize rendering */
+  will-change: auto;
+}
+
+/* Specific fixes for card backgrounds during scroll */
+.arbitrage-card {
+  /* Ensure background is always rendered */
+  background-clip: padding-box !important;
+  /* Prevent transparency issues */
+  isolation: isolate;
+}
+
+/* Fix for gradient backgrounds during scroll */
+.bg-gradient-to-br,
+.bg-gradient-to-r,
+.bg-gradient-to-l {
+  /* Ensure gradients render properly during scroll */
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+/* Prevent content from disappearing during scroll */
+.relative {
+  /* Ensure relative positioned elements maintain their background */
+  contain: layout style;
+}
+
+/* Animation keyframes */
+@keyframes profitPulse {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* Utility classes for animations */
+.animate-profit-pulse {
+  animation: profitPulse 2s ease-out;
+}
+
+/* Scrolling performance optimizations */
+@media (prefers-reduced-motion: no-preference) {
+  .scroll-smooth {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Force hardware acceleration for better scroll performance */
+.opportunity-list {
+  transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0, 0);
+}
+
+/* Prevent background color loss during scroll */
+.card-content {
+  position: relative;
+  z-index: 1;
+  background-color: transparent;
+}
+
+/* Ensure proper layering */
+.card-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  border-radius: inherit;
+}
+
+/* New style for misvalued odds */
+.misvalued-odd-effect {
+  background-color: rgba(252, 211, 77, 0.08); /* Amber-300 with 8% opacity */
+  border-color: rgba(252, 211, 77, 0.2); /* Amber-300 with 20% opacity */
+  box-shadow: 0 0 10px rgba(252, 211, 77, 0.15); /* Subtle glow */
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "2578595033280286741-653210987-11234591-27933898",
+    "home_team": "FC Ordino",
+    "away_team": "UE Santa Coloma",
+    "date": "14/09/2025",
+    "time": "18:00",
+    "country": "Andorra",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "x_vs_12",
+        "best_odds": {
+          "draw_odd": {
+            "value": 4.6,
+            "source": "1xbet"
+          },
+          "12_odd": {
+            "value": 1.28,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9986,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653210987-27933898",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "Andorra",
+        "tournament_1xbet": "Primera",
+        "1xbet_match_id": 653210987,
+        "1xbet_tournament_id": 1824632,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1824632/653210987",
+        "Asbet_country_name": "Andorra",
+        "tournament_Asbet": "Primera Division",
+        "Asbet_match_id": 27933898,
+        "Asbet_tournament_id": 3145,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Andorra/3145/primera-division/27933898/fc-ordino-ue-santa-coloma",
+        "group_id": "2578595033280286741-653210987-11234591-27933898",
+        "home_team": "FC Ordino",
+        "away_team": "UE Santa Coloma",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

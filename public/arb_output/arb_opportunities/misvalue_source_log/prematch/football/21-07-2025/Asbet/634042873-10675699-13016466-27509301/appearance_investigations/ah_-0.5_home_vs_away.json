@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Asbet",
+    "group_id": "634042873-10675699-13016466-27509301",
+    "market_name": "ah_-0.5_home_vs_away",
+    "arbitrage_percentage": 0.9628,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": 3.45,
+        "Asbet": 1.43
+      },
+      "new_odds": {
+        "Tounesbet": 3.795,
+        "Asbet": 1.43
+      }
+    },
+    "involved_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-21T14:49:10.112309"
+  }
+]

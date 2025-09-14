@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1038,
+    "overprice_source": "fair_source",
+    "odd_name": "away_over_1.5_odd",
+    "old_fair_odd": 1.9632,
+    "old_Tounesbet_odd": 2.167,
+    "new_fair_odd": 1.9632,
+    "new_Tounesbet_odd": 2.167,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269108184-10086907-11997966-27496313",
+    "home_team": "Sporting Kansas City",
+    "away_team": "Seattle Sounders",
+    "disappeared_at": "2025-07-09T05:05:05.669302"
+  }
+]

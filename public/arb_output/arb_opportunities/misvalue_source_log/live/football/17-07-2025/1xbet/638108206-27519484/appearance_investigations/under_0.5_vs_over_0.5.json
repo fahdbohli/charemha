@@ -1,0 +1,44 @@
+[
+  {
+    "misvalue_source": "1xbet",
+    "group_id": "638108206-27519484",
+    "market_name": "under_0.5_vs_over_0.5",
+    "arbitrage_percentage": 0.9393,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": 3.5,
+        "Asbet": 1.27
+      },
+      "new_odds": {
+        "1xbet": 3.5,
+        "Asbet": 1.53
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "appeared_at": "2025-07-17T20:45:51.738123"
+  },
+  {
+    "misvalue_source": "1xbet",
+    "group_id": "638108206-27519484",
+    "market_name": "under_0.5_vs_over_0.5",
+    "arbitrage_percentage": 0.9814,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": 2.315,
+        "Asbet": 1.76
+      },
+      "new_odds": {
+        "1xbet": 2.315,
+        "Asbet": 1.82
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "appeared_at": "2025-07-17T20:55:12.136241"
+  }
+]

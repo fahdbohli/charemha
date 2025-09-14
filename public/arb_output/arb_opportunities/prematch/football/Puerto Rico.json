@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "2578869525311266826-652961067-11273244-27999484",
+    "home_team": "Metropolitan FA San Juan",
+    "away_team": "Ponce FC",
+    "date": "14/09/2025",
+    "time": "21:00",
+    "country": "Puerto Rico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_5.0_vs_over_5.0",
+        "best_odds": {
+          "under_5.0_odd": {
+            "value": 1.7,
+            "source": "1xbet"
+          },
+          "over_5.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9964,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "652961067-27999484",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "Puerto Rico",
+        "tournament_1xbet": "National League",
+        "1xbet_match_id": 652961067,
+        "1xbet_tournament_id": 2317636,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2317636/652961067",
+        "Asbet_country_name": "Puerto Rico",
+        "tournament_Asbet": "PRSL",
+        "Asbet_match_id": 27999484,
+        "Asbet_tournament_id": 18280087,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Puerto Rico/18280087/prsl/27999484/metropolitan-fa-ponce-fc",
+        "group_id": "2578869525311266826-652961067-11273244-27999484",
+        "home_team": "Metropolitan FA San Juan",
+        "away_team": "Ponce FC",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

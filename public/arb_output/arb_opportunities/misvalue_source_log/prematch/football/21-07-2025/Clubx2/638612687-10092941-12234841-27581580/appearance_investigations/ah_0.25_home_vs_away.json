@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Clubx2",
+    "group_id": "638612687-10092941-12234841-27581580",
+    "market_name": "ah_0.25_home_vs_away",
+    "arbitrage_percentage": 0.9852,
+    "investigation_details": {
+      "old_odds": {
+        "Clubx2": 1.6667,
+        "Tounesbet": 2.15
+      },
+      "new_odds": {
+        "Clubx2": 1.6667,
+        "Tounesbet": 2.596
+      }
+    },
+    "involved_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-21T14:49:14.589054"
+  }
+]

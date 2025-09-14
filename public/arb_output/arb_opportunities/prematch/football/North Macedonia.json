@@ -1,0 +1,50 @@
+[
+  {
+    "group_id": "2578555411644944423-653192230-11234499-13517909-27996297",
+    "home_team": "FC Struga Trim Lum",
+    "away_team": "GFK Tikvesh 1930",
+    "date": "14/09/2025",
+    "time": "14:30",
+    "country": "North Macedonia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.25_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.25_odd": {
+            "value": 1.609,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.25_odd": {
+            "value": 2.85,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9724,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27996297-11234499",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "North Macedonia",
+        "tournament_Tounesbet": "First League",
+        "Tounesbet_match_id": 11234499,
+        "Tounesbet_tournament_id": 23665,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "North Macedonia",
+        "tournament_Asbet": "1. MFL",
+        "Asbet_match_id": 27996297,
+        "Asbet_tournament_id": 1873,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/North Macedonia/1873/mfl/27996297/struga-trim-lum-gfk-tikvesh",
+        "group_id": "2578555411644944423-653192230-11234499-13517909-27996297",
+        "home_team": "FC Struga Trim Lum",
+        "away_team": "GFK Tikvesh 1930",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

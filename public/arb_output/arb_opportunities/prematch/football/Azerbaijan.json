@@ -1,0 +1,50 @@
+[
+  {
+    "group_id": "2578449428981624832-653103366-11277000-13702908-27980409",
+    "home_team": "Shamakhi FK",
+    "away_team": "FK Karvan Yevlakh",
+    "date": "14/09/2025",
+    "time": "13:30",
+    "country": "Azerbaijan",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.0_odd": {
+            "value": 1.558,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.0_odd": {
+            "value": 2.85,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9927,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27980409-11277000",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Azerbaijan",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11277000,
+        "Tounesbet_tournament_id": 22793,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Azerbaijan",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27980409,
+        "Asbet_tournament_id": 15668,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Azerbaijan/15668/premier-league/27980409/shamakhi-fk-karvan-fk",
+        "group_id": "2578449428981624832-653103366-11277000-13702908-27980409",
+        "home_team": "Shamakhi FK",
+        "away_team": "FK Karvan Yevlakh",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "2559199917763604516-639157487-10667280-13025039",
+    "market_name": "one_vs_x2",
+    "arbitrage_percentage": 0.9994,
+    "investigation_details": {
+      "old_odds": {
+        "Jibibet": "2.4",
+        "Tounesbet": 1.716
+      },
+      "new_odds": {
+        "Jibibet": 2.4,
+        "Tounesbet": 1.716
+      }
+    },
+    "involved_sources": [
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-22T00:38:19.120534"
+  }
+]

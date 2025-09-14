@@ -1,0 +1,19 @@
+{
+  "27549396-home_handicap_-1.25_odd": {
+    "source": "Asbet",
+    "odd_name": "home_handicap_-1.25_odd",
+    "overpriced_odd_value": 3.4,
+    "fair_odd_value": 2.8322,
+    "overprice": 0.2005,
+    "unique_id": "27549396-home_handicap_-1.25_odd",
+    "Asbet_country_name": "Venezuela",
+    "tournament_Asbet": "Copa Venezuela",
+    "Asbet_match_id": 27549396,
+    "Asbet_tournament_id": 9161,
+    "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Venezuela/9161/copa-venezuela/27549396/caracas-fc-deportivo-miranda",
+    "group_id": "269437918-12865056-27549396",
+    "home_team": "Caracas FC",
+    "away_team": "Deportivo Miranda",
+    "activity_duration": "0 seconds"
+  }
+}

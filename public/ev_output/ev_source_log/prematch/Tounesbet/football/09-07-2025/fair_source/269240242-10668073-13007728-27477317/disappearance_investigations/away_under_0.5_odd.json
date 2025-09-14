@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1425,
+    "overprice_source": "fair_source",
+    "odd_name": "away_under_0.5_odd",
+    "old_fair_odd": 1.5501,
+    "old_Tounesbet_odd": 1.771,
+    "new_fair_odd": 1.5501,
+    "new_Tounesbet_odd": 1.771,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269240242-10668073-13007728-27477317",
+    "home_team": "Borac Banja Luka",
+    "away_team": "FC Santa Coloma",
+    "disappeared_at": "2025-07-09T05:05:05.689676"
+  }
+]

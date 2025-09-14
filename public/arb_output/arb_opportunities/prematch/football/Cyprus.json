@@ -1,0 +1,174 @@
+[
+  {
+    "group_id": "2578534395786956841-653515641-11276652-13479129-28000545",
+    "home_team": "Halkanoras FC Idaliou",
+    "away_team": "Omonia 29th May",
+    "date": "14/09/2025",
+    "time": "17:00",
+    "country": "Cyprus",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 2.05,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 2.03,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9804,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653515641-11276652",
+        "misvalue_source": "1xbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "2. Division",
+        "Tounesbet_match_id": 11276652,
+        "Tounesbet_tournament_id": 48003,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "Second Division",
+        "1xbet_match_id": 653515641,
+        "1xbet_tournament_id": 28611,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/28611/653515641",
+        "group_id": "2578534395786956841-653515641-11276652-13479129-28000545",
+        "home_team": "Halkanoras FC Idaliou",
+        "away_team": "Omonia 29th May",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.33,
+            "source": "Asbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.8,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9847,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653515641-28000545",
+        "misvalue_source": "1xbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "Second Division",
+        "Asbet_match_id": 28000545,
+        "Asbet_tournament_id": 3095,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/3095/second-division/28000545/chalkanoras-idaliou-omonia-m",
+        "1xbet_country_name": "Cyprus",
+        "tournament_1xbet": "Second Division",
+        "1xbet_match_id": 653515641,
+        "1xbet_tournament_id": 28611,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/28611/653515641",
+        "group_id": "2578534395786956841-653515641-11276652-13479129-28000545",
+        "home_team": "Halkanoras FC Idaliou",
+        "away_team": "Omonia 29th May",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "ah_0.5_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.5_odd": {
+            "value": 2.01,
+            "source": "Asbet"
+          },
+          "away_handicap_-0.5_odd": {
+            "value": 2.05,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9853,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000545-11276652",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Cyprus",
+        "tournament_Asbet": "Second Division",
+        "Asbet_match_id": 28000545,
+        "Asbet_tournament_id": 3095,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Cyprus/3095/second-division/28000545/chalkanoras-idaliou-omonia-m",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "2. Division",
+        "Tounesbet_match_id": 11276652,
+        "Tounesbet_tournament_id": 48003,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578534395786956841-653515641-11276652-13479129-28000545",
+        "home_team": "Halkanoras FC Idaliou",
+        "away_team": "Omonia 29th May",
+        "activity_duration": "26 hours"
+      },
+      {
+        "complementary_set": "under_2.5_vs_over_2.5",
+        "best_odds": {
+          "under_2.5_odd": {
+            "value": 2.7143,
+            "source": "Clubx2"
+          },
+          "over_2.5_odd": {
+            "value": 1.609,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9899,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13479129-11276652",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Cyprus",
+        "tournament_Clubx2": "2nd Division",
+        "Clubx2_match_id": 13479129,
+        "Clubx2_tournament_id": 3382,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13479129#/overview",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "2. Division",
+        "Tounesbet_match_id": 11276652,
+        "Tounesbet_tournament_id": 48003,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578534395786956841-653515641-11276652-13479129-28000545",
+        "home_team": "Halkanoras FC Idaliou",
+        "away_team": "Omonia 29th May",
+        "activity_duration": "26 hours"
+      },
+      {
+        "complementary_set": "awaywin_handicap_vs_1x",
+        "best_odds": {
+          "away_handicap_-0.5_odd": {
+            "value": 2.05,
+            "source": "Tounesbet"
+          },
+          "1X_odd": {
+            "value": 1.96,
+            "source": "Jibibet"
+          }
+        },
+        "arbitrage_percentage": 0.998,
+        "arbitrage_sources": "Jibibet, Tounesbet",
+        "unique_id": "2578534395786956841-11276652",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Cyprus",
+        "tournament_Tounesbet": "2. Division",
+        "Tounesbet_match_id": 11276652,
+        "Tounesbet_tournament_id": 48003,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Jibibet_country_name": "Cyprus",
+        "tournament_Jibibet": "2nd Division",
+        "Jibibet_match_id": 2578534395786956841,
+        "Jibibet_tournament_id": 1672720696930910208,
+        "Jibibet_match_url": "https://jibibet.com/",
+        "group_id": "2578534395786956841-653515641-11276652-13479129-28000545",
+        "home_team": "Halkanoras FC Idaliou",
+        "away_team": "Omonia 29th May",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

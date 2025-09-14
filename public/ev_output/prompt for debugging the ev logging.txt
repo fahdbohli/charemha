@@ -1,0 +1,24 @@
+i found this in the pending investigations :
+{
+  "16103579-2_odd": {
+    "disappeared_at": "2025-07-05T05:03:58.191794",
+    "last_known_opp": {
+      "source": "Tounesbet",
+      "odd_name": "2_odd",
+      "overpriced_odd_value": 1.903,
+      "fair_odd_value": 1.4858,
+      "overprice": 0.2808,
+      "unique_id": "16103579-2_odd",
+      "Tounesbet_country_name": "Australia",
+      "tournament_Tounesbet": "Australia Tasmania Super League Women",
+      "Tounesbet_match_id": 16103579,
+      "Tounesbet_tournament_id": null,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+      "group_id": "634972330-16103579",
+      "home_team": "Glenorchy Knights W",
+      "away_team": "Launceston United W",
+      "activity_duration": "4 seconds"
+    }
+  }
+}
+when i checked the odds tounesbet odd was at 1.903 and fair odd was at 1.8 which means that the fair source was the overprice source, but this remained in the pending investigations without being concluded

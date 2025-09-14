@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1293,
+    "overprice_source": "fair_source",
+    "odd_name": "home_over_2.5_odd",
+    "old_fair_odd": 2.4839,
+    "old_Tounesbet_odd": 2.805,
+    "new_fair_odd": 2.4839,
+    "new_Tounesbet_odd": 2.805,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269314387-10829408-13184039-27534558",
+    "home_team": "Weston Workers Bears",
+    "away_team": "Lambton Jaffas",
+    "disappeared_at": "2025-07-09T05:05:05.590123"
+  }
+]

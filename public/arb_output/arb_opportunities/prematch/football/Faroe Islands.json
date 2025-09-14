@@ -1,0 +1,98 @@
+[
+  {
+    "group_id": "2578437019160154120-653099237-10087703-13761439-27988743",
+    "home_team": "NSI Runavik",
+    "away_team": "TB Tvoeroyri",
+    "date": "14/09/2025",
+    "time": "15:00",
+    "country": "Faroe Islands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_2.0_vs_first_half_over_2.0",
+        "best_odds": {
+          "first_half_under_2.0_odd": {
+            "value": 2.07,
+            "source": "Asbet"
+          },
+          "first_half_over_2.0_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9967,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27988743-10087703",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Faroe Islands",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27988743,
+        "Asbet_tournament_id": 4159,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Faroe Islands/4159/premier-league/27988743/nsi-runavik-tb-tvoroyri",
+        "Tounesbet_country_name": "Faroe Islands",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 10087703,
+        "Tounesbet_tournament_id": 113507,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578437019160154120-653099237-10087703-13761439-27988743",
+        "home_team": "NSI Runavik",
+        "away_team": "TB Tvoeroyri",
+        "activity_duration": "26 hours"
+      }
+    ]
+  },
+  {
+    "group_id": "2578437019160154124-653099234-10087707-13761441-27997473",
+    "home_team": "KI Klaksvik",
+    "away_team": "Vikingur Gota",
+    "date": "15/09/2025",
+    "time": "18:30",
+    "country": "Faroe Islands",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_-0.5_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_-0.5_odd": {
+            "value": 1.865,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_0.5_odd": {
+            "value": 2.27,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9767,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997473-10087707",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Faroe Islands",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 10087707,
+        "Tounesbet_tournament_id": 113507,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Faroe Islands",
+        "tournament_Asbet": "Premier League",
+        "Asbet_match_id": 27997473,
+        "Asbet_tournament_id": 4159,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Faroe Islands/4159/premier-league/27997473/ki-klaksvik-vikingur-gota",
+        "group_id": "2578437019160154124-653099234-10087707-13761441-27997473",
+        "home_team": "KI Klaksvik",
+        "away_team": "Vikingur Gota",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+i ran the test for detecting an ev opoprtunity and the code logged it as an appearing investigation : ""C:\Users\HP\Desktop\Arbitrage Betting\.venv\Scripts\python.exe" "C:\Users\HP\Desktop\Arbitrage Betting\Football\Arbitrage Checker\main.py" 
+Running in Positive EV (ev) mode.
+Output will be written to: C:\Users\HP\dyad-apps\arbitrage-viewer\public\ev_output\live\Tounesbet\football
+[EV_LOG] Appearance investigation succeeded for 16103579-over_6.5_odd.
+[EV_LOG] Loaded 0 cached opps, 0 in purgatory, 0 pending.
+[EV_LOG] Saved: 1 active, 0 to purgatory, 0 pending.
+[ERROR] activity_tracker.json has unexpected format. Skipping deduplication.
+Deleted stale file: activity_tracker.json
+Deleted 1 old file(s).
+
+Updated activity tracker. Tracking 1 active opportunities.
+Total matching groups: 7
+Total +EV matches: 1
+Total +EV opportunities: 1
+Overprice: Avg 32.02%, Max 32.02%
+
+Process finished with exit code 0"
+i ran the code again another time, this is the log : ""C:\Users\HP\Desktop\Arbitrage Betting\.venv\Scripts\python.exe" "C:\Users\HP\Desktop\Arbitrage Betting\Football\Arbitrage Checker\main.py" 
+Running in Positive EV (ev) mode.
+Output will be written to: C:\Users\HP\dyad-apps\arbitrage-viewer\public\ev_output\live\Tounesbet\football
+[EV_LOG] Loaded 1 cached opps, 0 in purgatory, 0 pending.
+[EV_LOG] Saved: 1 active, 0 to purgatory, 0 pending.
+[ERROR] activity_tracker.json has unexpected format. Skipping deduplication.
+Deleted stale file: activity_tracker.json
+Deleted 1 old file(s).
+
+Updated activity tracker. Tracking 1 active opportunities.
+Total matching groups: 7
+Total +EV matches: 1
+Total +EV opportunities: 1
+Overprice: Avg 32.02%, Max 32.02%
+
+Process finished with exit code 0
+"
+after that i modified back the ev source odd to its normal value (i decreased it to its normal value) this is the log : ""C:\Users\HP\Desktop\Arbitrage Betting\.venv\Scripts\python.exe" "C:\Users\HP\Desktop\Arbitrage Betting\Football\Arbitrage Checker\main.py" 
+Running in Positive EV (ev) mode.
+Output will be written to: C:\Users\HP\dyad-apps\arbitrage-viewer\public\ev_output\live\Tounesbet\football
+[EV_LOG] Loaded 1 cached opps, 0 in purgatory, 0 pending.
+[EV_LOG] 1 new opps disappeared; moved to purgatory for next cycle.
+[EV_LOG] Saved: 0 active, 1 to purgatory, 0 pending.
+[ERROR] activity_tracker.json has unexpected format. Skipping deduplication.
+Deleted stale file: activity_tracker.json
+Deleted stale file: Australia.json
+Deleted 2 old file(s).
+
+Updated activity tracker. Tracking 0 active opportunities.
+Total matching groups: 7
+Total +EV matches: 0
+Total +EV opportunities: 0
+
+Process finished with exit code 0
+"
+after that i ran the code again and i got this : ""C:\Users\HP\Desktop\Arbitrage Betting\.venv\Scripts\python.exe" "C:\Users\HP\Desktop\Arbitrage Betting\Football\Arbitrage Checker\main.py" 
+Running in Positive EV (ev) mode.
+Output will be written to: C:\Users\HP\dyad-apps\arbitrage-viewer\public\ev_output\live\Tounesbet\football
+[EV_LOG] Loaded 0 cached opps, 1 in purgatory, 0 pending.
+[EV_LOG] 1 opps from purgatory confirmed disappeared; queuing for investigation.
+[EV_LOG] Resolved and logged disappearance for 16103579-over_6.5_odd.
+[EV_LOG] Saved: 0 active, 0 to purgatory, 0 pending.
+[ERROR] activity_tracker.json has unexpected format. Skipping deduplication.
+Deleted stale file: activity_tracker.json
+Deleted 1 old file(s).
+
+Updated activity tracker. Tracking 0 active opportunities.
+Total matching groups: 7
+Total +EV matches: 0
+Total +EV opportunities: 0
+
+Process finished with exit code 0
+"
+as you can see the code has made a disappearing investigation on an opportunity who already has been investigated by the appearing investigation, i have my "DOUBLE_CHECK": false

@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1366,
+    "overprice_source": "fair_source",
+    "odd_name": "away_under_0.5_odd",
+    "old_fair_odd": 2.1581,
+    "old_Tounesbet_odd": 2.453,
+    "new_fair_odd": 2.1581,
+    "new_Tounesbet_odd": 2.453,
+    "opportunity_duration": "0 seconds",
+    "group_id": "268271628-10730867-13094778-27509018",
+    "home_team": "FCSB",
+    "away_team": "AFC Hermannstadt",
+    "disappeared_at": "2025-07-09T05:05:05.671618"
+  }
+]

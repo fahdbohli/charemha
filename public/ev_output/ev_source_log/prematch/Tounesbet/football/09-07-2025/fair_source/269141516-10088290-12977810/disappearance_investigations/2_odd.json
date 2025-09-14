@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1052,
+    "overprice_source": "fair_source",
+    "odd_name": "2_odd",
+    "old_fair_odd": 2.986,
+    "old_Tounesbet_odd": 3.3,
+    "new_fair_odd": 2.9968,
+    "new_Tounesbet_odd": 3.3,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269141516-10088290-12977810",
+    "home_team": "Unión de Santa Fe",
+    "away_team": "Estudiantes de La Plata",
+    "disappeared_at": "2025-07-09T05:05:05.651041"
+  }
+]

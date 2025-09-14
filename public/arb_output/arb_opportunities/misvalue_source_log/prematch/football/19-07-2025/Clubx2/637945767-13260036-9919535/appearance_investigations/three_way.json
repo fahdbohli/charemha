@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Clubx2",
+    "group_id": "637945767-13260036-9919535",
+    "market_name": "three_way",
+    "arbitrage_percentage": 0.9932,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": 3.18,
+        "Clubx2": 6.3334
+      },
+      "new_odds": {
+        "Tounesbet": 3.476,
+        "Clubx2": 6.3334
+      }
+    },
+    "involved_sources": [
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-19T18:13:52.015074"
+  }
+]

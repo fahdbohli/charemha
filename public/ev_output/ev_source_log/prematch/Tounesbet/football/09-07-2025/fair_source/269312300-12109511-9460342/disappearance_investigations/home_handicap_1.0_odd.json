@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1037,
+    "overprice_source": "fair_source",
+    "odd_name": "home_handicap_1.0_odd",
+    "old_fair_odd": 1.6943,
+    "old_Tounesbet_odd": 1.87,
+    "new_fair_odd": 1.6943,
+    "new_Tounesbet_odd": 1.87,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269312300-12109511-9460342",
+    "home_team": "ÍA Akranes",
+    "away_team": "KR Reykjavík",
+    "disappeared_at": "2025-07-09T05:05:05.592119"
+  }
+]

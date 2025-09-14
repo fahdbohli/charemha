@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "652581099-10635480-13865411-28000564",
+    "home_team": "Santos Laguna (Women)",
+    "away_team": "Club Atlas De Guadalajara (Wom)",
+    "date": "16/09/2025",
+    "time": "02:00",
+    "country": "Mexico",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2_handicap",
+        "best_odds": {
+          "1_odd": {
+            "value": 3.69,
+            "source": "Tounesbet"
+          },
+          "away_handicap_0.5_odd": {
+            "value": 1.38,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9956,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28000564-10635480",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Mexico",
+        "tournament_Tounesbet": "Liga MX Women",
+        "Tounesbet_match_id": 10635480,
+        "Tounesbet_tournament_id": 23498,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Mexico",
+        "tournament_Asbet": "Liga MX - Women",
+        "Asbet_match_id": 28000564,
+        "Asbet_tournament_id": 11251,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Mexico/11251/liga-mx---women/28000564/santos-laguna-wom-club-atlas-de-guadalajara-wom",
+        "group_id": "652581099-10635480-13865411-28000564",
+        "home_team": "Santos Laguna (Women)",
+        "away_team": "Club Atlas De Guadalajara (Wom)",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

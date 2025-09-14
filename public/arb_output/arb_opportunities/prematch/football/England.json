@@ -1,0 +1,252 @@
+[
+  {
+    "group_id": "653485556-11285464-28008147",
+    "home_team": "Cheadle Town Stingers (Wom)",
+    "away_team": "Doncaster Rovers Belles LFC (Wom)",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "England",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "x_vs_12",
+        "best_odds": {
+          "draw_odd": {
+            "value": 5.637,
+            "source": "Tounesbet"
+          },
+          "12_odd": {
+            "value": 1.22,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9971,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28008147-11285464",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "England",
+        "tournament_Tounesbet": "National League W",
+        "Tounesbet_match_id": 11285464,
+        "Tounesbet_tournament_id": 191045,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "England",
+        "tournament_Asbet": "FA WNL Division One",
+        "Asbet_match_id": 28008147,
+        "Asbet_tournament_id": 19295,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/England/19295/fa-wnl-division-one/28008147/cheadle-town-stingers-wom-doncaster-rovers-belles-lfc-wom",
+        "group_id": "653485556-11285464-28008147",
+        "home_team": "Cheadle Town Stingers (Wom)",
+        "away_team": "Doncaster Rovers Belles LFC (Wom)",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "2578676162410717219-653337702-11271124-13691162-27949871",
+    "home_team": "Hull City",
+    "away_team": "Southampton FC",
+    "date": "20/09/2025",
+    "time": "15:00",
+    "country": "England",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.101,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 1.9091,
+            "source": "Clubx2"
+          }
+        },
+        "arbitrage_percentage": 0.9998,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "13691162-11271124",
+        "misvalue_source": "Clubx2",
+        "Tounesbet_country_name": "England",
+        "tournament_Tounesbet": "The Championship",
+        "Tounesbet_match_id": 11271124,
+        "Tounesbet_tournament_id": 23756,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Clubx2_country_name": "England",
+        "tournament_Clubx2": "Championship",
+        "Clubx2_match_id": 13691162,
+        "Clubx2_tournament_id": 2937,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13691162#/overview",
+        "group_id": "2578676162410717219-653337702-11271124-13691162-27949871",
+        "home_team": "Hull City",
+        "away_team": "Southampton FC",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "653233434-11143085-13761341-28001616",
+    "home_team": "Cheltenham Town (Women)",
+    "away_team": "Watford (Women)",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "England",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 7.95,
+            "source": "1xbet"
+          },
+          "X2_odd": {
+            "value": 1.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9805,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653233434-28001616",
+        "misvalue_source": "Asbet",
+        "1xbet_country_name": "England",
+        "tournament_1xbet": "National League. Premier Division. Women",
+        "1xbet_match_id": 653233434,
+        "1xbet_tournament_id": 2898954,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/2898954/653233434",
+        "Asbet_country_name": "England",
+        "tournament_Asbet": "FA WNL Premier Division",
+        "Asbet_match_id": 28001616,
+        "Asbet_tournament_id": 16945,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/England/16945/fa-wnl-premier-division/28001616/cheltenham-town-wom-watford-wom",
+        "group_id": "653233434-11143085-13761341-28001616",
+        "home_team": "Cheltenham Town (Women)",
+        "away_team": "Watford (Women)",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 7.175,
+            "source": "Tounesbet"
+          },
+          "X2_odd": {
+            "value": 1.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9941,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28001616-11143085",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "England",
+        "tournament_Tounesbet": "National League W",
+        "Tounesbet_match_id": 11143085,
+        "Tounesbet_tournament_id": 191045,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "England",
+        "tournament_Asbet": "FA WNL Premier Division",
+        "Asbet_match_id": 28001616,
+        "Asbet_tournament_id": 16945,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/England/16945/fa-wnl-premier-division/28001616/cheltenham-town-wom-watford-wom",
+        "group_id": "653233434-11143085-13761341-28001616",
+        "home_team": "Cheltenham Town (Women)",
+        "away_team": "Watford (Women)",
+        "activity_duration": "26 hours"
+      },
+      {
+        "complementary_set": "one_vs_x2",
+        "best_odds": {
+          "1_odd": {
+            "value": 7.0,
+            "source": "Clubx2"
+          },
+          "X2_odd": {
+            "value": 1.17,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9976,
+        "arbitrage_sources": "Asbet, Clubx2",
+        "unique_id": "28001616-13761341",
+        "misvalue_source": "Asbet",
+        "Clubx2_country_name": "England",
+        "tournament_Clubx2": "FA Women -  Southern Premier Division",
+        "Clubx2_match_id": 13761341,
+        "Clubx2_tournament_id": 43258,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13761341#/overview",
+        "Asbet_country_name": "England",
+        "tournament_Asbet": "FA WNL Premier Division",
+        "Asbet_match_id": 28001616,
+        "Asbet_tournament_id": 16945,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/England/16945/fa-wnl-premier-division/28001616/cheltenham-town-wom-watford-wom",
+        "group_id": "653233434-11143085-13761341-28001616",
+        "home_team": "Cheltenham Town (Women)",
+        "away_team": "Watford (Women)",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "653232565-11103111-13761317-28001606",
+    "home_team": "Loughborough Lightning (Women)",
+    "away_team": "Rugby Borough (Women)",
+    "date": "14/09/2025",
+    "time": "14:00",
+    "country": "England",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_ah_0.75_home_vs_away",
+        "best_odds": {
+          "home_first_half_handicap_0.75_odd": {
+            "value": 1.947,
+            "source": "Tounesbet"
+          },
+          "away_first_half_handicap_-0.75_odd": {
+            "value": 2.15,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9787,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "28001606-11103111",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "England",
+        "tournament_Tounesbet": "National League W",
+        "Tounesbet_match_id": 11103111,
+        "Tounesbet_tournament_id": 191045,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "England",
+        "tournament_Asbet": "FA WNL Premier Division",
+        "Asbet_match_id": 28001606,
+        "Asbet_tournament_id": 16945,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/England/16945/fa-wnl-premier-division/28001606/loughborough-lightning-wom-rugby-borough-wom",
+        "group_id": "653232565-11103111-13761317-28001606",
+        "home_team": "Loughborough Lightning (Women)",
+        "away_team": "Rugby Borough (Women)",
+        "activity_duration": "26 hours"
+      }
+    ]
+  }
+]

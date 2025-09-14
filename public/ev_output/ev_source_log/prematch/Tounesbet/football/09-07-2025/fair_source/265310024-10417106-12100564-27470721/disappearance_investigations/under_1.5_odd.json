@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1464,
+    "overprice_source": "fair_source",
+    "odd_name": "under_1.5_odd",
+    "old_fair_odd": 2.8786,
+    "old_Tounesbet_odd": 3.3,
+    "new_fair_odd": 2.8786,
+    "new_Tounesbet_odd": 3.3,
+    "opportunity_duration": "0 seconds",
+    "group_id": "265310024-10417106-12100564-27470721",
+    "home_team": "Bahia",
+    "away_team": "Atlético Mineiro",
+    "disappeared_at": "2025-07-09T05:05:05.661122"
+  }
+]

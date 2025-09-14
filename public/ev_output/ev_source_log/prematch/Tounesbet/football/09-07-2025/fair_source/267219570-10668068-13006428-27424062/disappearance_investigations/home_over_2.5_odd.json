@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1176,
+    "overprice_source": "fair_source",
+    "odd_name": "home_over_2.5_odd",
+    "old_fair_odd": 2.3622,
+    "old_Tounesbet_odd": 2.64,
+    "new_fair_odd": 2.3622,
+    "new_Tounesbet_odd": 2.64,
+    "opportunity_duration": "0 seconds",
+    "group_id": "267219570-10668068-13006428-27424062",
+    "home_team": "Ludogorets",
+    "away_team": "Dinamo Minsk",
+    "disappeared_at": "2025-07-09T05:05:05.638745"
+  }
+]

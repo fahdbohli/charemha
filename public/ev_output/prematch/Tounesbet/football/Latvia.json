@@ -1,0 +1,35 @@
+[
+  {
+    "group_id": "268440241-12032193-27452740-9759028",
+    "home_team": "Riga FC",
+    "away_team": "BFC Daugavpils",
+    "date": "06/07/2025",
+    "time": "17:00",
+    "country": "Latvia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "source": "Tounesbet",
+        "odd_name": "both_score_odd",
+        "overpriced_odd_value": 2.42,
+        "fair_odd_value": 2.1724,
+        "overprice": 0.114,
+        "unique_id": "9759028-both_score_odd",
+        "Tounesbet_country_name": "Latvia",
+        "tournament_Tounesbet": "Virsliga",
+        "Tounesbet_match_id": "9759028",
+        "Tounesbet_tournament_id": "25137",
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "group_id": "268440241-12032193-27452740-9759028",
+        "home_team": "Riga FC",
+        "away_team": "BFC Daugavpils",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

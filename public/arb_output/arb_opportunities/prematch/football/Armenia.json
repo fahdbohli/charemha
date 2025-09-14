@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "653227324-11252428-13886550-27966413",
+    "home_team": "FC Noah Artsakh",
+    "away_team": "Pyunik Yerevan",
+    "date": "14/09/2025",
+    "time": "16:00",
+    "country": "Armenia",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_-1.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_-1.0_odd": {
+            "value": 2.25,
+            "source": "Asbet"
+          },
+          "away_handicap_1.0_odd": {
+            "value": 1.896,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9719,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27966413-11252428",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Armenia",
+        "tournament_Asbet": "Fastex Premier League",
+        "Asbet_match_id": 27966413,
+        "Asbet_tournament_id": 1687,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Armenia/1687/fastex-premier-league/27966413/fc-noah-fc-pyunik",
+        "Tounesbet_country_name": "Armenia",
+        "tournament_Tounesbet": "Premier League",
+        "Tounesbet_match_id": 11252428,
+        "Tounesbet_tournament_id": 21485,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "653227324-11252428-13886550-27966413",
+        "home_team": "FC Noah Artsakh",
+        "away_team": "Pyunik Yerevan",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

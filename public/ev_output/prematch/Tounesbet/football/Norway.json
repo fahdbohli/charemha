@@ -1,0 +1,51 @@
+[
+  {
+    "group_id": "268979830-12029450-9563512",
+    "home_team": "Ullern",
+    "away_team": "Tromsø 2",
+    "date": "06/07/2025",
+    "time": "12:00",
+    "country": "Norway",
+    "all_sources": [
+      "1xbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "source": "Tounesbet",
+        "odd_name": "2_odd",
+        "overpriced_odd_value": 3.3,
+        "fair_odd_value": 2.999,
+        "overprice": 0.1004,
+        "unique_id": "9563512-2_odd",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "3. Division - 1",
+        "Tounesbet_match_id": "9563512",
+        "Tounesbet_tournament_id": "25173",
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "group_id": "268979830-12029450-9563512",
+        "home_team": "Ullern",
+        "away_team": "Tromsø 2",
+        "activity_duration": "0 seconds"
+      },
+      {
+        "source": "Tounesbet",
+        "odd_name": "X2_odd",
+        "overpriced_odd_value": 1.98,
+        "fair_odd_value": 1.7951,
+        "overprice": 0.103,
+        "unique_id": "9563512-X2_odd",
+        "Tounesbet_country_name": "Norway",
+        "tournament_Tounesbet": "3. Division - 1",
+        "Tounesbet_match_id": "9563512",
+        "Tounesbet_tournament_id": "25173",
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "group_id": "268979830-12029450-9563512",
+        "home_team": "Ullern",
+        "away_team": "Tromsø 2",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

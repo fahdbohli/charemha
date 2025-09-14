@@ -1,0 +1,44 @@
+[
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "638479290-13306375-27628015-9568139",
+    "market_name": "home_under_1.5_vs_home_over_1.5",
+    "arbitrage_percentage": 0.926,
+    "investigation_details": {
+      "old_odds": {
+        "1xbet": 1.909,
+        "Tounesbet": 1.925
+      },
+      "new_odds": {
+        "1xbet": 2.46,
+        "Tounesbet": 1.925
+      }
+    },
+    "involved_sources": [
+      "1xbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-22T00:40:39.798794"
+  },
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "638479290-13306375-27628015-9568139",
+    "market_name": "home_under_1.5_vs_home_over_1.5",
+    "arbitrage_percentage": 0.9379,
+    "investigation_details": {
+      "old_odds": {
+        "Asbet": 2.3,
+        "Tounesbet": 1.925
+      },
+      "new_odds": {
+        "Asbet": 2.39,
+        "Tounesbet": 1.925
+      }
+    },
+    "involved_sources": [
+      "Asbet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-22T00:40:39.801786"
+  }
+]

@@ -1,0 +1,359 @@
+{
+  "269974835-27578422": {
+    "birth_time": "2025-07-14T02:38:15.610157+01:00",
+    "opportunity_data": {
+      "complementary_set": "away_under_1.0_vs_away_over_1.0",
+      "best_odds": {
+        "away_under_1.0_odd": {
+          "value": 1.56,
+          "source": "1xbet"
+        },
+        "away_over_1.0_odd": {
+          "value": 3.05,
+          "source": "Asbet"
+        }
+      },
+      "arbitrage_percentage": 0.9689,
+      "arbitrage_sources": "1xbet, Asbet",
+      "unique_id": "269974835-27578422",
+      "misvalue_source": "Asbet",
+      "1xbet_country_name": "Brazil",
+      "tournament_1xbet": "Campeonato Brasileiro. Serie B",
+      "1xbet_match_id": 269974835,
+      "1xbet_tournament_id": 57265,
+      "1xbet_match_url": "https://1xbet.com/fr/line/football/57265/269974835",
+      "Asbet_country_name": "Brazil",
+      "tournament_Asbet": "Serie B",
+      "Asbet_match_id": 27578422,
+      "Asbet_tournament_id": 3104,
+      "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Brazil/3104/serie-b/27578422/associacao-ferroviaria-de-esportes-athletic-club-mg"
+    }
+  },
+  "12965723-10639808": {
+    "birth_time": "2025-07-14T02:38:15.707373+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_-0.5_home_vs_away",
+      "best_odds": {
+        "home_handicap_-0.5_odd": {
+          "value": 3.7,
+          "source": "Clubx2"
+        },
+        "away_handicap_0.5_odd": {
+          "value": 1.4,
+          "source": "Tounesbet"
+        }
+      },
+      "arbitrage_percentage": 0.9846,
+      "arbitrage_sources": "Clubx2, Tounesbet",
+      "unique_id": "12965723-10639808",
+      "misvalue_source": "Tounesbet",
+      "Clubx2_country_name": "Bulgaria",
+      "tournament_Clubx2": "First Professional League",
+      "Clubx2_match_id": 12965723,
+      "Clubx2_tournament_id": 3163,
+      "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12965723#/overview",
+      "Tounesbet_country_name": "Bulgaria",
+      "tournament_Tounesbet": "First League",
+      "Tounesbet_match_id": 10639808,
+      "Tounesbet_tournament_id": 22860,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live"
+    }
+  },
+  "27409396-10639808": {
+    "birth_time": "2025-07-14T02:38:15.707373+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_-0.5_home_vs_away",
+      "best_odds": {
+        "home_handicap_-0.5_odd": {
+          "value": 3.57,
+          "source": "Asbet"
+        },
+        "away_handicap_0.5_odd": {
+          "value": 1.4,
+          "source": "Tounesbet"
+        }
+      },
+      "arbitrage_percentage": 0.9944,
+      "arbitrage_sources": "Asbet, Tounesbet",
+      "unique_id": "27409396-10639808",
+      "misvalue_source": "Tounesbet",
+      "Asbet_country_name": "Bulgaria",
+      "tournament_Asbet": "Efbet League",
+      "Asbet_match_id": 27409396,
+      "Asbet_tournament_id": 1805,
+      "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Bulgaria/1805/efbet-league/27409396/lokomotiv-sofia-cherno-more-varna",
+      "Tounesbet_country_name": "Bulgaria",
+      "tournament_Tounesbet": "First League",
+      "Tounesbet_match_id": 10639808,
+      "Tounesbet_tournament_id": 22860,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live"
+    }
+  },
+  "269870608-10855540": {
+    "birth_time": "2025-07-14T02:38:15.939507+01:00",
+    "opportunity_data": {
+      "complementary_set": "home_under_1.5_vs_home_over_1.5",
+      "best_odds": {
+        "home_under_1.5_odd": {
+          "value": 1.58,
+          "source": "1xbet"
+        },
+        "home_over_1.5_odd": {
+          "value": 2.8,
+          "source": "Tounesbet"
+        }
+      },
+      "arbitrage_percentage": 0.9901,
+      "arbitrage_sources": "1xbet, Tounesbet",
+      "unique_id": "269870608-10855540",
+      "misvalue_source": "Asbet",
+      "1xbet_country_name": "Colombia",
+      "tournament_1xbet": "Categoría Primera B",
+      "1xbet_match_id": 269870608,
+      "1xbet_tournament_id": 214149,
+      "1xbet_match_url": "https://1xbet.com/fr/line/football/214149/269870608",
+      "Tounesbet_country_name": "Colombia",
+      "tournament_Tounesbet": "Colombia. Categoria Primera B",
+      "Tounesbet_match_id": 10855540,
+      "Tounesbet_tournament_id": 61931,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live"
+    }
+  },
+  "270153657-12165950": {
+    "birth_time": "2025-07-14T02:38:16.314173+01:00",
+    "opportunity_data": {
+      "complementary_set": "away_under_1.5_vs_away_over_1.5",
+      "best_odds": {
+        "away_under_1.5_odd": {
+          "value": 2.1,
+          "source": "1xbet"
+        },
+        "away_over_1.5_odd": {
+          "value": 2.2,
+          "source": "Clubx2"
+        }
+      },
+      "arbitrage_percentage": 0.9307,
+      "arbitrage_sources": "1xbet, Clubx2",
+      "unique_id": "270153657-12165950",
+      "1xbet_country_name": "Ecuador",
+      "tournament_1xbet": "Serie A",
+      "1xbet_match_id": 270153657,
+      "1xbet_tournament_id": 276999,
+      "1xbet_match_url": "https://1xbet.com/fr/line/football/276999/270153657",
+      "Clubx2_country_name": "Ecuador",
+      "tournament_Clubx2": "LigaPro Primera A",
+      "Clubx2_match_id": 12165950,
+      "Clubx2_tournament_id": 4564,
+      "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12165950#/overview"
+    }
+  },
+  "27556752-12817312": {
+    "birth_time": "2025-07-14T02:38:18.279481+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_0.75_home_vs_away",
+      "best_odds": {
+        "home_handicap_0.75_odd": {
+          "value": 1.95,
+          "source": "Clubx2"
+        },
+        "away_handicap_-0.75_odd": {
+          "value": 2.12,
+          "source": "Asbet"
+        }
+      },
+      "arbitrage_percentage": 0.9845,
+      "arbitrage_sources": "Asbet, Clubx2",
+      "unique_id": "27556752-12817312",
+      "Clubx2_country_name": "International Competitions",
+      "tournament_Clubx2": "Copa America, Women",
+      "Clubx2_match_id": 12817312,
+      "Clubx2_tournament_id": 36034,
+      "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12817312#/overview",
+      "Asbet_country_name": "International Competitions",
+      "tournament_Asbet": "Copa America - Women",
+      "Asbet_match_id": 27556752,
+      "Asbet_tournament_id": 9274,
+      "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/South America/9274/copa-america---women/27556752/uruguay-wom-argentina-wom"
+    }
+  },
+  "12900029-10582056": {
+    "birth_time": "2025-07-14T02:38:18.775217+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_-0.5_home_vs_away",
+      "best_odds": {
+        "home_handicap_-0.5_odd": {
+          "value": 1.75,
+          "source": "Tounesbet"
+        },
+        "away_handicap_0.5_odd": {
+          "value": 2.35,
+          "source": "Clubx2"
+        }
+      },
+      "arbitrage_percentage": 0.997,
+      "arbitrage_sources": "Clubx2, Tounesbet",
+      "unique_id": "12900029-10582056",
+      "misvalue_source": "Clubx2",
+      "Tounesbet_country_name": "Mexico",
+      "tournament_Tounesbet": "Liga MX - Apertura",
+      "Tounesbet_match_id": 10582056,
+      "Tounesbet_tournament_id": 23487,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+      "Clubx2_country_name": "Mexico",
+      "tournament_Clubx2": "Liga MX",
+      "Clubx2_match_id": 12900029,
+      "Clubx2_tournament_id": 10009,
+      "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900029#/overview"
+    }
+  },
+  "12900027-10582058": {
+    "birth_time": "2025-07-14T02:38:18.787143+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_-0.5_home_vs_away",
+      "best_odds": {
+        "home_handicap_-0.5_odd": {
+          "value": 3.75,
+          "source": "Clubx2"
+        },
+        "away_handicap_0.5_odd": {
+          "value": 1.37,
+          "source": "Tounesbet"
+        }
+      },
+      "arbitrage_percentage": 0.9966,
+      "arbitrage_sources": "Clubx2, Tounesbet",
+      "unique_id": "12900027-10582058",
+      "misvalue_source": "Clubx2",
+      "Clubx2_country_name": "Mexico",
+      "tournament_Clubx2": "Liga MX",
+      "Clubx2_match_id": 12900027,
+      "Clubx2_tournament_id": 10009,
+      "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12900027#/overview",
+      "Tounesbet_country_name": "Mexico",
+      "tournament_Tounesbet": "Liga MX - Apertura",
+      "Tounesbet_match_id": 10582058,
+      "Tounesbet_tournament_id": 23487,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live"
+    }
+  },
+  "268974197-27462062": {
+    "birth_time": "2025-07-14T02:38:19.540389+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_-1.75_home_vs_away",
+      "best_odds": {
+        "home_handicap_-1.75_odd": {
+          "value": 3.71,
+          "source": "1xbet"
+        },
+        "away_handicap_1.75_odd": {
+          "value": 1.37,
+          "source": "Asbet"
+        }
+      },
+      "arbitrage_percentage": 0.9995,
+      "arbitrage_sources": "1xbet, Asbet",
+      "unique_id": "268974197-27462062",
+      "misvalue_source": "Asbet",
+      "1xbet_country_name": "Russia",
+      "tournament_1xbet": "Premier League",
+      "1xbet_match_id": 268974197,
+      "1xbet_tournament_id": 225733,
+      "1xbet_match_url": "https://1xbet.com/fr/line/football/225733/268974197",
+      "Asbet_country_name": "Russia",
+      "tournament_Asbet": "Premier League",
+      "Asbet_match_id": 27462062,
+      "Asbet_tournament_id": 1993,
+      "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27462062/dynamo-moscow-fc-baltika-kaliningrad"
+    }
+  },
+  "27462062-10690891": {
+    "birth_time": "2025-07-14T02:38:19.540389+01:00",
+    "opportunity_data": {
+      "complementary_set": "ah_-1.75_home_vs_away",
+      "best_odds": {
+        "home_handicap_-1.75_odd": {
+          "value": 3.71,
+          "source": "Tounesbet"
+        },
+        "away_handicap_1.75_odd": {
+          "value": 1.37,
+          "source": "Asbet"
+        }
+      },
+      "arbitrage_percentage": 0.9995,
+      "arbitrage_sources": "Asbet, Tounesbet",
+      "unique_id": "27462062-10690891",
+      "misvalue_source": "Asbet",
+      "Tounesbet_country_name": "Russia",
+      "tournament_Tounesbet": "Premiere League",
+      "Tounesbet_match_id": 10690891,
+      "Tounesbet_tournament_id": 44379,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+      "Asbet_country_name": "Russia",
+      "tournament_Asbet": "Premier League",
+      "Asbet_match_id": 27462062,
+      "Asbet_tournament_id": 1993,
+      "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Russia/1993/premier-league/27462062/dynamo-moscow-fc-baltika-kaliningrad"
+    }
+  },
+  "13086537-10717488": {
+    "birth_time": "2025-07-14T02:38:19.984620+01:00",
+    "opportunity_data": {
+      "complementary_set": "first_half_ah_-0.5_home_vs_away",
+      "best_odds": {
+        "home_first_half_handicap_-0.5_odd": {
+          "value": 2.67,
+          "source": "Tounesbet"
+        },
+        "away_first_half_handicap_0.5_odd": {
+          "value": 1.9,
+          "source": "Clubx2"
+        }
+      },
+      "arbitrage_percentage": 0.9008,
+      "arbitrage_sources": "Clubx2, Tounesbet",
+      "unique_id": "13086537-10717488",
+      "misvalue_source": "Clubx2",
+      "Tounesbet_country_name": "Slovenia",
+      "tournament_Tounesbet": "Prva Liga",
+      "Tounesbet_match_id": 10717488,
+      "Tounesbet_tournament_id": 21785,
+      "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+      "Clubx2_country_name": "Slovenia",
+      "tournament_Clubx2": "PrvaLiga",
+      "Clubx2_match_id": 13086537,
+      "Clubx2_tournament_id": 3161,
+      "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=13086537#/overview"
+    }
+  },
+  "270145450-27575537": {
+    "birth_time": "2025-07-14T02:38:20.689733+01:00",
+    "opportunity_data": {
+      "complementary_set": "away_under_2.0_vs_away_over_2.0",
+      "best_odds": {
+        "away_under_2.0_odd": {
+          "value": 1.32,
+          "source": "Asbet"
+        },
+        "away_over_2.0_odd": {
+          "value": 4.15,
+          "source": "1xbet"
+        }
+      },
+      "arbitrage_percentage": 0.9985,
+      "arbitrage_sources": "1xbet, Asbet",
+      "unique_id": "270145450-27575537",
+      "Asbet_country_name": "USA",
+      "tournament_Asbet": "USL League Two",
+      "Asbet_match_id": 27575537,
+      "Asbet_tournament_id": 11402,
+      "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/USA/11402/usl-league-two/27575537/lonestar-sc-twin-city-toucans",
+      "1xbet_country_name": "USA",
+      "tournament_1xbet": "USL League Two",
+      "1xbet_match_id": 270145450,
+      "1xbet_tournament_id": 1921313,
+      "1xbet_match_url": "https://1xbet.com/fr/line/football/1921313/270145450"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1316,
+    "overprice_source": "fair_source",
+    "odd_name": "home_handicap_1.0_odd",
+    "old_fair_odd": 2.1871,
+    "old_Tounesbet_odd": 2.475,
+    "new_fair_odd": 2.1871,
+    "new_Tounesbet_odd": 2.475,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269411620-10592562-12880799-27535403",
+    "home_team": "Arbroath",
+    "away_team": "St. Mirren",
+    "disappeared_at": "2025-07-09T05:05:05.688901"
+  }
+]

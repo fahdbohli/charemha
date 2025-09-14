@@ -1,0 +1,46 @@
+[
+  {
+    "group_id": "642833270-27684842",
+    "home_team": "Congo",
+    "away_team": "Sudan",
+    "date": "05/08/2025",
+    "time": "15:00",
+    "country": "International Competitions",
+    "all_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "under_1.75_vs_over_1.75",
+        "best_odds": {
+          "under_1.75_odd": {
+            "value": 2.144,
+            "source": "1xbet"
+          },
+          "over_1.75_odd": {
+            "value": 1.9,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9927,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "642833270-27684842",
+        "1xbet_country_name": "International Competitions",
+        "tournament_1xbet": "African Nations Championship",
+        "1xbet_match_id": 642833270,
+        "1xbet_tournament_id": 231293,
+        "1xbet_match_url": "https://1xbet.com/fr/live/football/231293/642833270",
+        "Asbet_country_name": "International Competitions",
+        "tournament_Asbet": "African Nations Championship",
+        "Asbet_match_id": 27684842,
+        "Asbet_tournament_id": 1670,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/live/event-view/Soccer/Africa/1670/african-nations-championship/27684842/congo-sudan",
+        "group_id": "642833270-27684842",
+        "home_team": "Congo",
+        "away_team": "Sudan",
+        "activity_duration": "2 minutes"
+      }
+    ]
+  }
+]

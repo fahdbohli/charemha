@@ -1,0 +1,112 @@
+[
+  {
+    "group_id": "2578869525311266823-653186657-11265707-13861326-27997639",
+    "home_team": "FC Prishtina",
+    "away_team": "KF Drita Gjilan",
+    "date": "14/09/2025",
+    "time": "19:15",
+    "country": "Kosovo",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.865,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9444,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27997639-11265707",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Kosovo",
+        "tournament_Asbet": "Superleague",
+        "Asbet_match_id": 27997639,
+        "Asbet_tournament_id": 18608,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Kosovo/18608/superleague/27997639/fc-prishtina-kf-drita-gjilan",
+        "Tounesbet_country_name": "Kosovo",
+        "tournament_Tounesbet": "Superliga",
+        "Tounesbet_match_id": 11265707,
+        "Tounesbet_tournament_id": 24942,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578869525311266823-653186657-11265707-13861326-27997639",
+        "home_team": "FC Prishtina",
+        "away_team": "KF Drita Gjilan",
+        "activity_duration": "26 hours"
+      },
+      {
+        "complementary_set": "ah_0.25_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.25_odd": {
+            "value": 2.07,
+            "source": "Tounesbet"
+          },
+          "away_handicap_-0.25_odd": {
+            "value": 2.08,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9639,
+        "arbitrage_sources": "1xbet, Tounesbet",
+        "unique_id": "653186657-11265707",
+        "misvalue_source": "Tounesbet",
+        "Tounesbet_country_name": "Kosovo",
+        "tournament_Tounesbet": "Superliga",
+        "Tounesbet_match_id": 11265707,
+        "Tounesbet_tournament_id": 24942,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "1xbet_country_name": "Kosovo",
+        "tournament_1xbet": "Superleague",
+        "1xbet_match_id": 653186657,
+        "1xbet_tournament_id": 598257,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/598257/653186657",
+        "group_id": "2578869525311266823-653186657-11265707-13861326-27997639",
+        "home_team": "FC Prishtina",
+        "away_team": "KF Drita Gjilan",
+        "activity_duration": "26 hours"
+      },
+      {
+        "complementary_set": "ah_0.0_home_vs_away",
+        "best_odds": {
+          "home_handicap_0.0_odd": {
+            "value": 2.45,
+            "source": "Asbet"
+          },
+          "away_handicap_0.0_odd": {
+            "value": 1.76,
+            "source": "1xbet"
+          }
+        },
+        "arbitrage_percentage": 0.9763,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653186657-27997639",
+        "misvalue_source": "Asbet",
+        "Asbet_country_name": "Kosovo",
+        "tournament_Asbet": "Superleague",
+        "Asbet_match_id": 27997639,
+        "Asbet_tournament_id": 18608,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Kosovo/18608/superleague/27997639/fc-prishtina-kf-drita-gjilan",
+        "1xbet_country_name": "Kosovo",
+        "tournament_1xbet": "Superleague",
+        "1xbet_match_id": 653186657,
+        "1xbet_tournament_id": 598257,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/598257/653186657",
+        "group_id": "2578869525311266823-653186657-11265707-13861326-27997639",
+        "home_team": "FC Prishtina",
+        "away_team": "KF Drita Gjilan",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

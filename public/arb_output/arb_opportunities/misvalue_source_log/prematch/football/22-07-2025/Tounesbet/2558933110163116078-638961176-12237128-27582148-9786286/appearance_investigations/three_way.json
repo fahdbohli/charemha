@@ -1,0 +1,23 @@
+[
+  {
+    "misvalue_source": "Tounesbet",
+    "group_id": "2558933110163116078-638961176-12237128-27582148-9786286",
+    "market_name": "three_way",
+    "arbitrage_percentage": 0.9815,
+    "investigation_details": {
+      "old_odds": {
+        "Tounesbet": 3.608,
+        "Jibibet": "3.2"
+      },
+      "new_odds": {
+        "Tounesbet": 3.608,
+        "Jibibet": 3.2
+      }
+    },
+    "involved_sources": [
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "appeared_at": "2025-07-22T00:17:29.221995"
+  }
+]

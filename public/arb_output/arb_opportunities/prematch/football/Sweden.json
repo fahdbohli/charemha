@@ -1,0 +1,142 @@
+[
+  {
+    "group_id": "2578615512242200593-653255646-12708833-27973408-9616102",
+    "home_team": "Qviding FIF",
+    "away_team": "Bergdalens IK",
+    "date": "14/09/2025",
+    "time": "15:00",
+    "country": "Sweden",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "first_half_under_2.0_vs_first_half_over_2.0",
+        "best_odds": {
+          "first_half_under_2.0_odd": {
+            "value": 2.07,
+            "source": "Asbet"
+          },
+          "first_half_over_2.0_odd": {
+            "value": 1.998,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9836,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27973408-9616102",
+        "misvalue_source": "Tounesbet",
+        "Asbet_country_name": "Sweden",
+        "tournament_Asbet": "2nd Division",
+        "Asbet_match_id": 27973408,
+        "Asbet_tournament_id": 2999,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Sweden/2999/nd-division/27973408/qviding-fif-bergdalens-ik",
+        "Tounesbet_country_name": "Sweden",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 9616102,
+        "Tounesbet_tournament_id": 122421,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578615512242200593-653255646-12708833-27973408-9616102",
+        "home_team": "Qviding FIF",
+        "away_team": "Bergdalens IK",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "2578617343999619079-653254721-12708841-27973409-9611098",
+    "home_team": "Kungsangens IF",
+    "away_team": "Taby FK",
+    "date": "14/09/2025",
+    "time": "15:00",
+    "country": "Sweden",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Jibibet",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x_handicap",
+        "best_odds": {
+          "2_odd": {
+            "value": 2.3,
+            "source": "Clubx2"
+          },
+          "home_handicap_0.5_odd": {
+            "value": 1.793,
+            "source": "Tounesbet"
+          }
+        },
+        "arbitrage_percentage": 0.9925,
+        "arbitrage_sources": "Clubx2, Tounesbet",
+        "unique_id": "12708841-9611098",
+        "misvalue_source": "Tounesbet",
+        "Clubx2_country_name": "Sweden",
+        "tournament_Clubx2": "11347",
+        "Clubx2_match_id": 12708841,
+        "Clubx2_tournament_id": 11347,
+        "Clubx2_match_url": "https://www.clubx2.com/sportsbook/live?page=event&eventId=12708841#/overview",
+        "Tounesbet_country_name": "Sweden",
+        "tournament_Tounesbet": "Division 2",
+        "Tounesbet_match_id": 9611098,
+        "Tounesbet_tournament_id": 122421,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "group_id": "2578617343999619079-653254721-12708841-27973409-9611098",
+        "home_team": "Kungsangens IF",
+        "away_team": "Taby FK",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  },
+  {
+    "group_id": "653241942-27973412",
+    "home_team": "Ahlafors IF",
+    "away_team": "Tidaholms GoIF",
+    "date": "14/09/2025",
+    "time": "15:00",
+    "country": "Sweden",
+    "all_sources": [
+      "1xbet",
+      "Asbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "two_vs_1x",
+        "best_odds": {
+          "2_odd": {
+            "value": 6.41,
+            "source": "1xbet"
+          },
+          "1X_odd": {
+            "value": 1.21,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9825,
+        "arbitrage_sources": "1xbet, Asbet",
+        "unique_id": "653241942-27973412",
+        "1xbet_country_name": "Sweden",
+        "tournament_1xbet": "Division 2. Northern Gotaland",
+        "1xbet_match_id": 653241942,
+        "1xbet_tournament_id": 1640241,
+        "1xbet_match_url": "https://1xbet.com/fr/line/football/1640241/653241942",
+        "Asbet_country_name": "Sweden",
+        "tournament_Asbet": "2nd Division",
+        "Asbet_match_id": 27973412,
+        "Asbet_tournament_id": 2999,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Sweden/2999/nd-division/27973412/ahlafors-if-tidaholms-goif",
+        "group_id": "653241942-27973412",
+        "home_team": "Ahlafors IF",
+        "away_team": "Tidaholms GoIF",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

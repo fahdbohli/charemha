@@ -1,0 +1,16 @@
+[
+  {
+    "overprice": 0.1132,
+    "overprice_source": "fair_source",
+    "odd_name": "home_over_2.5_odd",
+    "old_fair_odd": 2.9643,
+    "old_Tounesbet_odd": 3.3,
+    "new_fair_odd": 2.9643,
+    "new_Tounesbet_odd": 3.3,
+    "opportunity_duration": "0 seconds",
+    "group_id": "269173455-10823365-13196092-27544141",
+    "home_team": "Independiente Medellín",
+    "away_team": "Alianza Petrolera",
+    "disappeared_at": "2025-07-09T05:05:05.629612"
+  }
+]

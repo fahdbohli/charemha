@@ -1,0 +1,35 @@
+[
+  {
+    "group_id": "268405884-10771579-13004832-27480240",
+    "home_team": "Panevežys",
+    "away_team": "Suduva",
+    "date": "07/07/2025",
+    "time": "17:00",
+    "country": "Lithuania",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "source": "Tounesbet",
+        "odd_name": "both_score_odd",
+        "overpriced_odd_value": 1.98,
+        "fair_odd_value": 1.7998,
+        "overprice": 0.1001,
+        "unique_id": "10771579-both_score_odd",
+        "Tounesbet_country_name": "Lithuania",
+        "tournament_Tounesbet": "A Lyga",
+        "Tounesbet_match_id": "10771579",
+        "Tounesbet_tournament_id": "25135",
+        "Tounesbet_match_url": "https://tounesbet.com/paris-sportif-live",
+        "group_id": "268405884-10771579-13004832-27480240",
+        "home_team": "Panevežys",
+        "away_team": "Suduva",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]

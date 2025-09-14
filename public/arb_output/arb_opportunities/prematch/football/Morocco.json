@@ -1,0 +1,49 @@
+[
+  {
+    "group_id": "653539055-11240763-13874629-27989359",
+    "home_team": "Ittihad Riadhi de Tanger",
+    "away_team": "OCS Olympique de Safi",
+    "date": "15/09/2025",
+    "time": "17:00",
+    "country": "Morocco",
+    "all_sources": [
+      "1xbet",
+      "Asbet",
+      "Clubx2",
+      "Tounesbet"
+    ],
+    "opportunities": [
+      {
+        "complementary_set": "x_vs_12",
+        "best_odds": {
+          "draw_odd": {
+            "value": 2.87,
+            "source": "Tounesbet"
+          },
+          "12_odd": {
+            "value": 1.57,
+            "source": "Asbet"
+          }
+        },
+        "arbitrage_percentage": 0.9854,
+        "arbitrage_sources": "Asbet, Tounesbet",
+        "unique_id": "27989359-11240763",
+        "misvalue_source": "Asbet",
+        "Tounesbet_country_name": "Morocco",
+        "tournament_Tounesbet": "Botola Pro",
+        "Tounesbet_match_id": 11240763,
+        "Tounesbet_tournament_id": 22055,
+        "Tounesbet_match_url": "https://tounesbet.com/Prematch",
+        "Asbet_country_name": "Morocco",
+        "tournament_Asbet": "Botola 1",
+        "Asbet_match_id": 27989359,
+        "Asbet_tournament_id": 1955,
+        "Asbet_match_url": "https://www.asbet.org/en/sports/pre-match/event-view/Soccer/Morocco/1955/botola/27989359/ittihad-tanger-ocs-olympique-de-safi",
+        "group_id": "653539055-11240763-13874629-27989359",
+        "home_team": "Ittihad Riadhi de Tanger",
+        "away_team": "OCS Olympique de Safi",
+        "activity_duration": "0 seconds"
+      }
+    ]
+  }
+]
